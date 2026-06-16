@@ -1,0 +1,38 @@
+# Freecell Solitaire Unblocked Online
+
+> Play free unblocked browser games online with no download. Fast-loading HTML5 games including action, racing, multiplayer, sports, puzzle, io games, and arcade classics.
+
+## Main Sections
+
+- Home: https://freecell-solitaire.github.io/
+- Popular Games: https://freecell-solitaire.github.io/popular/
+- All Games: https://freecell-solitaire.github.io/all-games/
+
+## Popular Game Types
+
+- IO Games
+- Racing Games
+- Multiplayer Games
+- Shooting Games
+- Sports Games
+- Puzzle Games
+- Arcade Games
+- Parkour Games
+
+## Featured Games
+
+- https://freecell-solitaire.github.io/class/subway-surfers/
+- https://freecell-solitaire.github.io/class/moto-x3m/
+- https://freecell-solitaire.github.io/class/ovo/
+- https://freecell-solitaire.github.io/class/drift-boss/
+- https://freecell-solitaire.github.io/class/smash-karts/
+- https://freecell-solitaire.github.io/class/run-3/
+- https://freecell-solitaire.github.io/class/tunnel-rush/
+- https://freecell-solitaire.github.io/class/temple-run-2/
+- https://freecell-solitaire.github.io/class/retro-bowl/
+- https://freecell-solitaire.github.io/class/house-of-hazards/
+
+## Policies
+
+- Privacy Policy: https://freecell-solitaire.github.io/privacy-policy/
+- Contact: https://freecell-solitaire.github.io/contact/
